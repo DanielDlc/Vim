@@ -7,7 +7,7 @@
 " | |\  |  __/ (_) \ V / | | | | | | |
 " |_| \_|\___|\___/ \_/  |_|_| |_| |_|
 "
-" ~DanielDlc Sharmeiro  Config
+" ~DanielDlc Config
 "================================================================
 
 " Auto install vim-plug and Plugins
